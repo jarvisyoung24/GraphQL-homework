@@ -70,11 +70,6 @@ MongoDB (local or hosted, e.g., MongoDB Atlas)
 
 Steps
 
-Clone the repository:
-
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-
 Install dependencies:
 
 npm install
