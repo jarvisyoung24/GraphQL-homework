@@ -103,15 +103,3 @@ Sign up or log in to save your favorite books.
 
 View and manage your saved books from the dashboard.
 
-Deployment
------------
-
-The application is deployed to Render with MongoDB hosted on MongoDB Atlas. Follow these steps for deployment:
-
-Set up a MongoDB Atlas cluster and retrieve your connection string.
-
-Create a Render account and link your GitHub repository.
-
-Add the required environment variables in the Render dashboard.
-
-Deploy the application using the "Deploy with Render" button.
