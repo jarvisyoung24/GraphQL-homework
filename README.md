@@ -58,6 +58,7 @@ Logout:
 Users can log out, clearing the session.
 
 Installation
+------------
 
 Prerequisites
 
