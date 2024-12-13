@@ -1,6 +1,8 @@
 Book Search Engine
+------------------
 
 Description
+-----------
 
 The Book Search Engine is a full-stack MERN application that allows users to search for books using the Google Books API, save their favorite books, and manage their accounts. This project is refactored to use GraphQL with Apollo Server for improved performance and scalability.
 
@@ -15,6 +17,7 @@ Save Favorites: Save and manage a personalized list of favorite books.
 Responsive Design: Mobile-first approach using Bootstrap.
 
 Technologies Used
+-----------------
 
 Frontend: React, TypeScript, Apollo Client, Bootstrap
 
@@ -25,12 +28,14 @@ Database: MongoDB (via MongoDB Atlas)
 API: Google Books API
 
 User Story
+-----------
 
 As an avid reader,
 I want to search for new books to read,
 So that I can keep a list of books to purchase.
 
 Acceptance Criteria
+-------------------
 
 Search for Books:
 
@@ -102,6 +107,7 @@ Sign up or log in to save your favorite books.
 View and manage your saved books from the dashboard.
 
 Deployment
+-----------
 
 The application is deployed to Render with MongoDB hosted on MongoDB Atlas. Follow these steps for deployment:
 
