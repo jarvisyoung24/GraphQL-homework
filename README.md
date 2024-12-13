@@ -84,10 +84,6 @@ Create a .env file in the root directory.
 
 Add the following:
 
-MONGODB_URI=<your_mongodb_uri>
-JWT_SECRET=<your_jwt_secret>
-GOOGLE_BOOKS_API_KEY=<your_google_books_api_key>
-
 Seed the database (optional):
 
 npm run seed
