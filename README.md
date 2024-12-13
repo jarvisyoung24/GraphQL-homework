@@ -90,8 +90,6 @@ npm run develop
 
 Usage
 
-Launch the application by navigating to http://localhost:3000 in your browser.
-
 Use the search bar to find books by title or author.
 
 Sign up or log in to save your favorite books.
